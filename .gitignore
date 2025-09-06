@@ -1,0 +1,9 @@
+**/.vs
+**/bin
+**/obj
+**/*.user
+**/Logs/*
+
+Reports
+dmoney_chaning.jtl
+jmeter.log

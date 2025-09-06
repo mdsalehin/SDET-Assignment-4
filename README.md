@@ -56,7 +56,7 @@ This project demonstrates **JMeter Chaining**  using the dmoney API, simulating 
 ├── sendMoney.csv            # Customer send money data
 ├── payment.csv              # Customer payment data
 ├── Reports/                 # HTML dashboard
-└── Resources/               # Screenshots of report
+  
 
 
 

@@ -43,6 +43,11 @@ This project demonstrates **JMeter Chaining**  using the dmoney API, simulating 
 ## How to Run 
 - jmeter -n -t dmoney_chaning.jmx -l dmoney.jtl -e -o Reports/
 
+## Attachments:
+- JMeter HTML Report.
+<img width="1629" height="673" alt="image" src="https://github.com/user-attachments/assets/d01659b1-0f96-4879-90a6-9f63702a0562" />
+
+
 ## Repository Structure
 ```text
 .
@@ -54,9 +59,7 @@ This project demonstrates **JMeter Chaining**  using the dmoney API, simulating 
 └── Resources/               # Screenshots of report
 
 
-## Attachments:
-- JMeter HTML Report.
-<img width="1629" height="673" alt="image" src="https://github.com/user-attachments/assets/f2826b45-1a35-4eaf-acdd-f7d8881886f0" />
+
 
 
 

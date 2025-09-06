@@ -44,6 +44,7 @@ This project demonstrates **JMeter Chaining**  using the dmoney API, simulating 
 - jmeter -n -t dmoney_chaning.jmx -l dmoney.jtl -e -o Reports/
 
 ## Repository Structure
+```text
 .
 ├── dmoney_chaning.jmx       # JMeter test plan
 ├── deposit.csv              # Agent deposit data
@@ -51,6 +52,7 @@ This project demonstrates **JMeter Chaining**  using the dmoney API, simulating 
 ├── payment.csv              # Customer payment data
 ├── Reports/                 # HTML dashboard
 └── Resources/               # Screenshots of report
+
 ## Attachments:
 - JMeter HTML Report.
 <img width="1629" height="673" alt="image" src="https://github.com/user-attachments/assets/61c650e3-9ac8-477f-83e6-4036d7617a13" />
